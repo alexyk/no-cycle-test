@@ -1,3 +1,6 @@
+# the compiler generated .js
+./dist
+
 # Logs
 logs
 *.log
