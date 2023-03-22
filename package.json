@@ -4,8 +4,11 @@
   "main": "index.js",
   "author": "Yaojian",
   "license": "MIT",
+  "scripts": {
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
+  },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.17.0",
+    "@typescript-eslint/eslint-plugin": "^4.27.0",
     "@typescript-eslint/parser": "^4.17.0",
     "eslint": "^7.22.0",
     "eslint-plugin-import": "^2.22.1",
