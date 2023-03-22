@@ -1,4 +1,5 @@
-import x from "./a";
-import y from "./b";
+import x from './a'
 
-console.log(x, y);
+const z = 10
+
+export default z + x;

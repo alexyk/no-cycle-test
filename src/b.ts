@@ -1,4 +1,4 @@
-import x from "./a";
+import z from "./c";
 
-const y: number = x + 1;
+const y: number = z + 1;
 export default y;
